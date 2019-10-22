@@ -1,5 +1,5 @@
 Trabalho 1 de Inteligência Artificial   Tema: Estratégias de busca - Autocomplete
-Professora: Aline Paes Disciplina/Semestre: Inteligência Artificial/2019.1
+Professora: Aline Paes Disciplina/Semestre: Inteligência Artificial/2019.1/UFF
 Alunos: Alan Gomes, Eduardo Peniche e Marcelo José
 
 1. Introdução
